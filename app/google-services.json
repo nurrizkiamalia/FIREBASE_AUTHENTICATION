@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "52992742176",
+    "project_id": "life-and-choice",
+    "storage_bucket": "life-and-choice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52992742176:android:4b1eefd6d466a8ccae3d45",
+        "android_client_info": {
+          "package_name": "com.TiB.LifeandChoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52992742176-me43i6mjnf06hr33kaculqnc0sfgdpsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PvvjKu5lfubL_kfA3EMXpUpkNzdqC2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52992742176-me43i6mjnf06hr33kaculqnc0sfgdpsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52992742176:android:4fa83c06f02b541cae3d45",
+        "android_client_info": {
+          "package_name": "com.TiB.lifeandchoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52992742176-me43i6mjnf06hr33kaculqnc0sfgdpsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PvvjKu5lfubL_kfA3EMXpUpkNzdqC2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52992742176-me43i6mjnf06hr33kaculqnc0sfgdpsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
